@@ -1,4 +1,3 @@
-import './App.css';
 import LogoDesign from './components/LogoDesign'
 
 function App() {
